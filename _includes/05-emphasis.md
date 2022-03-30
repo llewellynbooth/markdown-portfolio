@@ -1,1 +1,3 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+- _Learn **Azure**_.
+- _Learn **Dev Ops**_.
+- *learn **Development**_.
