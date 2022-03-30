@@ -1,3 +1,3 @@
-- Learn Azure.
-- Learn Dev ops.
-- learn Development.
+- _Learn **Azure**_.
+- _Learn **Dev Ops**_.
+- *learn **Development**_.
