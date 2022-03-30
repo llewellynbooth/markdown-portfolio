@@ -1,6 +1,1 @@
----
-layout: default
----
-
 # Llewellynbooth Websites
-
