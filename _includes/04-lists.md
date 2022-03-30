@@ -1,3 +1,3 @@
-Learn Azure.
-Learn Dev ops.
-learn Development.
+-Learn Azure.
+-Learn Dev ops.
+-learn Development.
